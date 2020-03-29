@@ -23,3 +23,5 @@ Vital started in 1987 as magazine on paper. It's simple xeroxed form ensured a f
 
 [Dictionary of Online Behaviour](http://www.dictionaryofonlinebehavior.com)
 
+### IDEAS FOR TRANSCODING:
+
