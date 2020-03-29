@@ -1,10 +1,5 @@
-
-
+>>>>>>> 
 # ***Transcoding Vital Magazine***
-
-### 					<img src="/Users/yanaabrasheva/Documents/archival resilience coding:imd/vitall/1.JPG" alt="1" style="zoom:20%;" />
-
-
 
 ### 					VALUABLE LINKS:
 
