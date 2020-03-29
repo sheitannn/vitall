@@ -1,6 +1,3 @@
-# vitall
- a transcoding project
-
 # ***Transcoding Vital Magazine***
 
 ### 					VALUABLE LINKS:
