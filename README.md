@@ -35,5 +35,13 @@ Vital started in 1987 as magazine on paper. It's simple xeroxed form ensured a f
 
 
 
-### IDEAS FOR TRANSCODING:
+### QUESTIONS? 
+
+- How to automate correction of OCR?
+- How to create new not standard tools for designing?
+- How to work with the graphics from the magazine?
+- How to encode information in the graphics?
+- USB DEADROP - tactics of distribution
+- How to create a printable website?
+- How to deal with situation of pandemic and how to limit the physical artefacts we envision to digital means?
 
