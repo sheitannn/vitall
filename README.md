@@ -62,7 +62,7 @@ TOOL #2 : is to develop an interactive experience which jumps the gap between th
 
 
 
-### SKETCHES
+### SKETCHES:
 
 ![91003313_174538240193354_5718717369434505216_n](https://user-images.githubusercontent.com/55089950/77898452-6dfc0c00-727b-11ea-8966-5bb0510d03c4.jpg)
 
