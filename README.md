@@ -52,3 +52,13 @@ Vital started in 1987 as magazine on paper. It's simple xeroxed form ensured a f
 - by making this environment we want to connect the viewer/listener more closely to the person who is committing his life to creating this magazine.
 - we want to expose the nature of the magazine which is consequently the nature of frans de waard.
 
+### TOOLS:
+
+##### TOOL #1 and #2 are both found in a website: 
+
+TOOL #1 : is to develop a printing tool for the viewers of the website to be able to reproduce the physical magazine at home, and continue its spread. 
+
+TOOL #2 : is to develop an interactive experience which jumps the gap between the physical magazine and the music. It is to embed the graphics of the magazine with information – the music so that when you hover on them you can hear different music. 
+
+
+
