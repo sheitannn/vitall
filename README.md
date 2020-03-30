@@ -60,5 +60,9 @@ TOOL #1 : is to develop a printing tool for the viewers of the website to be abl
 
 TOOL #2 : is to develop an interactive experience which jumps the gap between the physical magazine and the music. It is to embed the graphics of the magazine with information – the music so that when you hover on them you can hear different music. 
 
+![91003313_174538240193354_5718717369434505216_n](https://user-images.githubusercontent.com/55089950/77898452-6dfc0c00-727b-11ea-8966-5bb0510d03c4.jpg)
 
+![90982815_921753604924913_8793880491280302080_n](https://user-images.githubusercontent.com/55089950/77898426-65a3d100-727b-11ea-8be7-19c9a3217fa6.jpg)
+
+![90924817_548324772458862_7479886357179924480_n](https://user-images.githubusercontent.com/55089950/77898392-5a50a580-727b-11ea-93f5-d38a345f79a5.jpg)
 
