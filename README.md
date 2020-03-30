@@ -25,6 +25,14 @@ Vital started in 1987 as magazine on paper. It's simple xeroxed form ensured a f
 
 ### CREATING A REALM OF ARTEFACTS:
 
+- Frans talks about the master-copy and that every distrubitor will get only one copy - so called master-copy
+- We want to create a digital alternative containing the concept of master-copy – **torrent – means of replication – spread the virus**
+- In order to create a torrent we need to digitalise the magazine:
+  - Extract the essential components: text, visuals, music (no link to it in the printed magazines)
+  - Find a system to re-map the magazine so that we exclude the possibility of reading – we almost don't read today through the whole text – what about the future – language won't be the same – maybe reading is obsolete? –  how do we emphasise the most important information? – where do we encode the music? – what is the browsing flow? – is there spoken word or are the letters transcoded – is the music transcoded within the correspondent image of a label? – what is the tool for browsing this master–copy?
+- We decided to concentrate on the **first 10 issues** which are published in the time spam of almost **3 years - 1987-1989**
+- In this artefact we want to cover the social context in which this magazine exists and it maybe would go together with the main body of mastercopy of the torrent or maybe – idea initial maybe map out – guidance
+
 
 
 ### IDEAS FOR TRANSCODING:
