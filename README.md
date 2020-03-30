@@ -31,9 +31,7 @@ Vital started in 1987 as magazine on paper. It's simple xeroxed form ensured a f
   - Extract the essential components: text, visuals, music (no link to it in the printed magazines)
   - Find a system to re-map the magazine so that we exclude the possibility of reading – we almost don't read today through the whole text – what about the future – language won't be the same – maybe reading is obsolete? –  how do we emphasise the most important information? – where do we encode the music? – what is the browsing flow? – is there spoken word or are the letters transcoded – is the music transcoded within the correspondent image of a label? – what is the tool for browsing this master–copy?
 - We decided to concentrate on the **first 10 issues** which are published in the time spam of almost **3 years - 1987-1989**
-- In this artefact we want to cover the social context in which this magazine exists and it maybe would go together with the main body of mastercopy of the torrent or maybe – idea initial maybe map out – guidance
-
-
+- In this artefact we want to cover the social context in which this magazine exists and it maybe would go together with the main body of mastercopy of the torrent or maybe – idea initial maybe map out – guidance.
 
 ### QUESTIONS? 
 
@@ -43,5 +41,14 @@ Vital started in 1987 as magazine on paper. It's simple xeroxed form ensured a f
 - How to encode information in the graphics?
 - USB DEADROP - tactics of distribution
 - How to create a printable website?
-- How to deal with situation of pandemic and how to limit the physical artefacts we envision to digital means?
+- **How to deal with situation of pandemic and how to limit the physical artefacts we envision to digital means?**
+
+## <u>CONCEPT:</u>
+
+- Creating an environment which allows you to browse the content and understand its origins.
+- The digital tool we would like to create allows us to transcode the 3 main contents of the magazine into a new type of master copy – one that you can browse online. And experience the music itself.
+- we also want to make physical transcoding - which create the physical environment.
+- it is the life work of someone and creating a physical/ tangible space transcodes the paper magazine into more  immersive experience" as it is for the person making it.
+- by making this environment we want to connect the viewer/listener more closely to the person who is committing his life to creating this magazine.
+- we want to expose the nature of the magazine which is consequently the nature of frans de waard.
 
