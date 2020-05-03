@@ -12,15 +12,15 @@ Vital is a magazine focused on experimental electronic music. It started in 1987
 
 ### Metadata
 
-| Tag                                                  | Data                                                         |
-| :--------------------------------------------------- | ------------------------------------------------------------ |
-| **IISG Call Number**                                 | CSD ZO 44301                                                 |
-| **Physical Description**                             | Cardboard folder with magazines                              |
-| **Type**                                             | Magazine                                                     |
-| **Medium**                                           | Printed matter                                               |
-| **Materials**                                        | Paper                                                        |
-| **Date**                                             | 1987–1992                                                    |
-| ![](/Users/davidsrot/Documents/KABK WORK/ IMD/1.JPG) | The artefact consists of 25 printed issues of Vital magazine. The individual issues are arranged according to the issue number in a cardboard packaging which is made of two sheets of cardboard held together by two fabric ribbons. On the cardboard cover is the artefact number ZO 44301 and also text that says: VITAL 1988–1992 : 1–25 + special (1989). |
+| Tag                      | Data                                                         |
+| :----------------------- | ------------------------------------------------------------ |
+| **IISG Call Number**     | CSD ZO 44301                                                 |
+| **Physical Description** | Cardboard folder with magazines                              |
+| **Type**                 | Magazine                                                     |
+| **Medium**               | Printed matter                                               |
+| **Materials**            | Paper                                                        |
+| **Date**                 | 1987–1992                                                    |
+| ![Test Image 1](3D1.JPG) | The artefact consists of 25 printed issues of Vital magazine. The individual issues are arranged according to the issue number in a cardboard packaging which is made of two sheets of cardboard held together by two fabric ribbons. On the cardboard cover is the artefact number ZO 44301 and also text that says: VITAL 1988–1992 : 1–25 + special (1989). |
 
 # Research
 
