@@ -2,7 +2,31 @@
 
 # VITAL magazine transcoding
 
-[TOC]
+- [VITAL magazine transcoding](#vital-magazine-transcoding)
+- [Artefact: What is VITAL](#artefact--what-is-vital)
+    + [Metadata](#metadata)
+- [Research](#research)
+- [Transcoding](#transcoding)
+    + [TOOL #1 :](#tool--1--)
+      - [Description](#description)
+      - [Methods](#methods)
+      - [Results](#results)
+    + [TOOL #2 :](#tool--2--)
+      - [Description](#description-1)
+      - [Methods](#methods-1)
+      - [Results](#results-1)
+- [Mastercopy – Distribution](#mastercopy---distribution)
+- [Outcomes](#outcomes)
+      - [Outcome links](#outcome-links)
+- [Bibliography/References](#bibliography-references)
+- [Questions/problems](#questions-problems)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
+
+
 
 # Artefact: What is VITAL
 
