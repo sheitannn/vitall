@@ -50,6 +50,10 @@ Vital is a magazine focused on experimental electronic music. It started in 1987
 
 Main part of our research is interview with author of VITAL Frans De Waard recorded on 11th March 2020 in Nijmegen. In the interview he talks about background of the magazine, his life and many other things regarding the magazije itself. You can find the transcribed interview here: [interview](https://www.notion.so/interview-transcribe-6b2df57bd7154ccfa9b2070784b82857).
 
+Also we did a lot of browsing in youtube and discogs when discovering the music that we will use in our website. 
+
+Also we researched methods on how to use css in order to style layouts for printing
+
 
 
 # Transcoding
@@ -58,11 +62,11 @@ We decided to concentrate on the **first 10 issues** which are published in the 
 
 
 
-- We want to create an environment which allows you to browse the content and understand its origins.
+- We want to create a website which allows you to browse the content and understand its origins.
 
 - The digital tool we would like to create allows us to transcode the 3 main contents of the magazine into a new type of master copy – one that you can browse online. And experience the music itself.
 
-- By making this environment we want to connect the viewer/listener more closely to the person who is committing his life to creating this magazine. We want to expose the nature of the magazine which is consequently the nature of Frans De Waard.
+- By making this website we want to connect the viewer/listener more closely to the person who is committing his life to creating this magazine. We want to expose the nature of the magazine which is consequently the nature of Frans De Waard.
 
   
 
@@ -109,8 +113,12 @@ Reproduction and distribution was and still is very important part of the magazi
 - We want to create a distribution network by using torrents – a peer-to-peer sharing system. Once we complete our transcodings, we want to package them into one file and make them available to everyone via torrent. Thus, maintaining the principle of a master copy. Everyone will become part of the chain.
 
 # Outcomes
-
-
+- A browsable music directory
+- A transcribe of an interview tih Frans de Waard 
+- A ocr, running text for reading 
+- A printable directory coded in css 
+- All of this things fostered in a website
+(maybe a 3d object of how we found the magazines)
 
 #### Outcome links
 
@@ -130,7 +138,7 @@ Reproduction and distribution was and still is very important part of the magazi
 
 Before the COVID–19 situation started we wanted to make physical transcodings, which would create physical environment. It is the life work of someone and creating a physical/ tangible space transcodes the paper magazine into more immersive experience as it is for the person making it. By making this environment we wanted to connect the viewer/listener more closely to the person who is committing his life to creating this magazine.
 
-Now the task is to transform this environment into digital space. 
+Now the task is to transform this environment into a simple website. 
 
 
 
