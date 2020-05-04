@@ -11,7 +11,7 @@
       - [Description](#description)
       - [Methods](#methods)
       - [Results](#results)
-    + [TOOL #2 :](#tool--2--)
+    + [TOOL #2 :](#tool-2-)
       - [Description](#description-1)
       - [Methods](#methods-1)
       - [Results](#results-1)
